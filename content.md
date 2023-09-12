@@ -2,7 +2,7 @@
 
 ## Getting started
 
-In this project, we'll re-write our association accessor methods using [ActiveRecord's powerful Association helpers](https://guides.rubyonrails.org/association_basics.html). Spend some time now reading the official guide before you start the project
+In this project, we'll re-write our association accessor methods using [ActiveRecord's powerful Association helpers](https://guides.rubyonrails.org/association_basics.html).
 
 The target is the same as Photogram GUI, but you shouldn't need the target for this refactoring project: 
 
