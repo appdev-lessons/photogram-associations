@@ -55,7 +55,9 @@ Use this tool to help plan out your new association methods:
 
 [https://association-accessors.firstdraft.com/](https://association-accessors.firstdraft.com/)
 
-Note that the above tool doesn't yet support Scoped Associations. As a stretch goal, [read up on them here](https://remimercier.com/scoped-active-record-associations/) and see if you can figure out how to use them to build `accepted_sent_friend_requests`, `leaders`, `feed`, and `discover`.
+You may also want to read up again on [the `:through` and `:source` keywords from our previous refactoring of Must See Movies](https://learn.firstdraft.com/lessons/156-refactoring-msm-gui-2#the-source-and-through-keywords).
+
+Note that our `association-accessors.firstdraft` tool doesn't yet support Scoped Associations. As a stretch goal, [read up on them here](https://remimercier.com/scoped-active-record-associations/) and see if you can figure out how to use them to build `accepted_sent_friend_requests`, `leaders`, `feed`, and `discover`.
 
 ## Solution
 
